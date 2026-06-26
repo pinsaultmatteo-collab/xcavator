@@ -1,0 +1,18 @@
+# XCAVATOR
+
+> XCAVATOR est une marque de mini-pelles compactes homologuées (certification TÜV, normes Euro 5), créée par CZN Machinery, importateur basé à Toulouse. CZN Machinery assure la vente, la configuration, le financement, la livraison et le SAV de la gamme XCAVATOR en France.
+
+Ce site (xcavator.fr) est le site de marque : il présente la gamme, les homologations (TÜV, Euro 5) et la technologie XCAVATOR. Pour acheter, configurer une machine, consulter les prix ou les accessoires, tout se passe sur le site de CZN Machinery.
+
+## La marque
+- [Accueil XCAVATOR](https://xcavator.fr/): présentation de la marque, gamme de mini-pelles compactes, homologations TÜV / Euro 5, technologie et distribution.
+
+## Acheter / configurer (CZN Machinery)
+- [Mini-pelles chez CZN](https://czn-machinery.com/mini-pelles/)
+- [Mini-chargeurs chez CZN](https://czn-machinery.com/mini-chargeurs/)
+- [Mini-tombereaux chez CZN](https://czn-machinery.com/mini-tombereaux/)
+- [Accessoires compatibles chez CZN](https://czn-machinery.com/accessoires/)
+- [Contact / devis CZN](https://czn-machinery.com/contact/)
+
+## Optional
+- [Contenu complet (llms-full.md)](https://xcavator.fr/llms-full.md)

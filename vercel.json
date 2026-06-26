@@ -1,0 +1,10 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/:path(mini-pelle.*)",     "destination": "https://czn-machinery.com/mini-pelles/",     "permanent": true },
+    { "source": "/:path(mini-chargeur.*)",  "destination": "https://czn-machinery.com/mini-chargeurs/",   "permanent": true },
+    { "source": "/:path(mini-tombereau.*)", "destination": "https://czn-machinery.com/mini-tombereaux/",   "permanent": true },
+    { "source": "/:path(mini-dumper.*)",    "destination": "https://czn-machinery.com/mini-tombereaux/",   "permanent": true },
+    { "source": "/:path(accessoires.*)",    "destination": "https://czn-machinery.com/accessoires/",       "permanent": true }
+  ]
+}
