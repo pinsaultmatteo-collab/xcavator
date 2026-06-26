@@ -408,6 +408,32 @@ footer{background:var(--steel);color:var(--on-dark-soft);padding:66px 0 30px;pos
   .foot-top{flex-direction:column;gap:30px}
   .ghost-x{font-size:80vw!important}
 }
+/* ===== AJUSTEMENTS MOBILE (demandes client) ===== */
+@media (max-width:760px){
+  /* Hero : contenu texte + boutons centrés */
+  .hero-copy{text-align:center}
+  .hero-cta{justify-content:center}
+  .trust{justify-content:center}
+
+  /* Stats : empilées pleine largeur sous le hero */
+  .stats-in{grid-template-columns:1fr}
+
+  /* Photos produits : centrées, entièrement visibles, sens unique */
+  .rcard .ph{aspect-ratio:4/3;padding:18px}
+  .rcard .ph img{width:auto;height:100%;max-width:88%;max-height:100%;object-fit:contain;margin-inline:auto}
+  .rcard.flip .ph img,
+  .rcard:hover.flip .ph img{transform:none}
+
+  /* Certifications : "2 ans / Garantie" sur toute la largeur */
+  .badges .badge:nth-child(5){grid-column:1 / -1}
+
+  /* Livraison + Distribution : suppression de l'animation d'apparition */
+  .deliv-grid .rise,
+  .distrib-grid .rise{opacity:1!important;transform:none!important;transition:none!important}
+
+  /* Distribution : boutons (dont "Demander un devis") centrés */
+  .distrib .cta-row{justify-content:center}
+}
 @media (prefers-reduced-motion:reduce){
   *{animation:none!important;transition:none!important}
   .js .rise{opacity:1;transform:none}
